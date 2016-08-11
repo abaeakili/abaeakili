@@ -1,25 +1,23 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to AbaeAkili's Site!"
 date:   2016-08-10 09:35:55 -0400
-categories: jekyll update
+categories: Random Thoughts
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hey there..
+I am Abae Akili..
+Welcome to my site.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Hmm...where do we start.. do you think I can pitch you?
+Lets not start to be boring..as usual, lets be smart, in a good way..
+Trust me.. You will find it fun..
 
-Jekyll also offers powerful support for code snippets:
+Abae is a Website & Mobile Application developer. Business Management & Computer Science student. An Entrepreneur, Environmentalist & I love travelling. I live in the Coastal City of Mombasa, Kenya. I love Creating Stuff, playing with Electronics & reading Blogs. I enjoy spending time with my Friends and Family, & when I am not with them, then I am Sharing Knowledge... or learning a new thing with the Tech Community here.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Check out my [Twitter][Twitter] for awesome posta on everything I get myself involved. You can as well check my profile at [LinkedIn][LinkedIn]. If you have questions,suggestions, comments or anything, you can ask me via [Email Talk][Email].
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[Twitter]: http://twitter.com/abaekili
+[LinkedIn]:   https://linkedin.com/abaeakili
+[Email]: mailto:abaeakili254@gmail.com
+
