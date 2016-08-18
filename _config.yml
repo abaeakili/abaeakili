@@ -9,14 +9,12 @@
 title: akili-online
 email: abaeakili254@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Abae is a Website & Mobile Application developer.
-  Business Management & Computer Science student.
-  An Entrepreneur, Environmentalist & I love travelling.
-  I live in the Coastal City of Mombasa, Kenya.
-  I love Creating Stuff, playing with Electronics & reading Blogs.
-  I enjoy spending time with my Friends and Family,
-  & when I am not with them, then I am Sharing Knowledge...
-  or learning a new thing with the Tech Community here.
+  Just like the gazelle in the African savannah; 
+  it has to wake up everyday knowing that it must be fast enough to outwit the fastest cheetah
+  or it might be eaten, the same goes to the cheetah, or it might starve to death.
+  Everyday, we are in a hurry, it doesnt matter if you are the cheetah, or the gazelle but
+  you must be the best!
+  Welcome to mysite! Happy Exploring!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: abaeakili
