@@ -4,10 +4,9 @@ A *Full-Stack Software Developer*, *Wordpress Expert* and the Founder of Kenya's
 
 <details>
  <summary><strong>Read more...</strong></summary>
-   <p>- 🔭 Currently leading an awesome Team at [Huduma Fasta LLC](https://hudumafasta.co.ke) & collaborating on private projects</p><br /> 
-   <p>- 🌱 Also learning [Laravel!](https://laravel.com) & [Flutter!](https://flutter.dev)</p><br />
-   <p>- 👯 Looking for meaningful collaborations and partnerships especially in Tech, Health and Environmental Conservation.</p><br />
-   <p>- 💬 Ask me about anything here on [Telegram](https://t.me/abaeakili)</p><br />
+   <p>- 🔭 Currently leading an awesome Team at Huduma Fasta LLC & collaborating on private projects</p> 
+   <p>- 🌱 Also learning Laravel & Flutter</p>
+   <p>- 👯 Looking for meaningful collaborations and partnerships especially in Tech, Health and Environmental Conservation.</p>
 </details>
 
 
