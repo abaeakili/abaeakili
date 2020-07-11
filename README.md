@@ -7,6 +7,7 @@ An upcoming full-stack software developer and the Founder at Kenya's first data-
 - 👯 I’m looking for meaningful collaborations especially in Tech, Health and Environmental Conservation.
 - 💬 Ask me about anything [here](https://github.com/abaeakili/abaeakili/issues)
 
+<br />
 <a href="https://linkedin.com/ke/abaeakili">
   <img align="left" alt="Abae Akili | LinkedIn" width="20px" src="https://raw.githubusercontent.com/abaeakili/abaeakili/master/assets/linkedin.svg" />
 </a>
@@ -30,11 +31,11 @@ An upcoming full-stack software developer and the Founder at Kenya's first data-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<br />
 
+![Abae's github stats](https://github-readme-stats.vercel.app/api?username=abaeakili&show_icons=true&hide_border=true)
 
-![Abae's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide_border=true)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/abaeakili/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 
