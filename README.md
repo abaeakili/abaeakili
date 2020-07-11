@@ -38,4 +38,4 @@ An upcoming full-stack software developer and the Founder at Kenya's first data-
 </a>
 
 <br />
-![visitors](https://visitor-badge.glitch.me/badge?page_id=abaeakili)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=abaeakili.visitor-badge)
