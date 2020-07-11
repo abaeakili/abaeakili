@@ -7,7 +7,6 @@ An upcoming full-stack software developer and the Founder at Kenya's first data-
 - 👯 Looking for meaningful collaborations and partnerships especially in Tech, Health and Environmental Conservation.
 - 💬 Ask me about anything here on [Telegram](https://t.me/abaeakili)
 
-
 <br />
 
 **Languages and Tools:**  
@@ -23,6 +22,7 @@ An upcoming full-stack software developer and the Founder at Kenya's first data-
 
 **Let's Connect:**
 <br />
+
 <a href="https://linkedin.com/ke/abaeakili">
   <img align="left" alt="Abae Akili | LinkedIn" width="20px" src="https://github.com/abaeakili/abaeakili/blob/master/img/linkedin.svg" />
 </a>
