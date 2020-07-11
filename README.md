@@ -21,7 +21,7 @@ An upcoming full-stack software developer and the Founder at Kenya's first data-
 
 <br />
 <a href="https://linkedin.com/ke/abaeakili">
-  <img align="left" alt="Abae Akili | LinkedIn" width="20px" src="https://raw.githubusercontent.com/abaeakili/abaeakili/master/assets/linkedin.svg" />
+  <img align="left" alt="Abae Akili | LinkedIn" width="20px" src="https://github.com/abaeakili/abaeakili/blob/master/img/linkedin.svg" />
 </a>
 <a href="https://twitter.com/abaeakili">
   <img align="left" alt="Abae Akili | Twitter" width="21px" src="https://raw.githubusercontent.com/abaeakili/abaeakili/master/assets/twitter.svg" />
