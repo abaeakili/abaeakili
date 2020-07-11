@@ -40,6 +40,6 @@ A *Full-Stack Software Developer*, *Wordpress Expert* and the Founder of Kenya's
 </a>
 
 <br /><br />
-<p> [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-<img src="https://visitor-badge.glitch.me/badge?page_id=abaeakili" alt="visitor badge"/></p>
+[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<p> <img src="https://visitor-badge.glitch.me/badge?page_id=abaeakili" alt="visitor badge"/></p>
 
