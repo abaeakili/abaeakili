@@ -2,10 +2,14 @@
 
 A *Full-Stack Software Developer*, *Wordpress Expert* and the Founder of Kenya's first data-driven HealthTech mobility startup [Huduma Fasta LLC!](https://hudumafasta.co.ke)
 
-- 🔭 Currently leading an awesome Team at [Huduma Fasta LLC](https://hudumafasta.co.ke) & collaborating on private projects 
-- 🌱 Also learning [Laravel!](https://laravel.com) & [Flutter!](https://flutter.dev)
-- 👯 Looking for meaningful collaborations and partnerships especially in Tech, Health and Environmental Conservation.
-- 💬 Ask me about anything here on [Telegram](https://t.me/abaeakili)
+<details>
+ <summary><strong>Read more...</strong></summary>
+   - 🔭 Currently leading an awesome Team at [Huduma Fasta LLC](https://hudumafasta.co.ke) & collaborating on private projects 
+   - 🌱 Also learning [Laravel!](https://laravel.com) & [Flutter!](https://flutter.dev)
+   - 👯 Looking for meaningful collaborations and partnerships especially in Tech, Health and Environmental Conservation.
+   - 💬 Ask me about anything here on [Telegram](https://t.me/abaeakili) 
+</details>
+
 
 <br />
 
