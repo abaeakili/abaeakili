@@ -1,8 +1,8 @@
 ### 👋 Hi there, I'm [Abae Akili!](https://abaeakili.github.io)
 
-An upcoming full-stack software developer and the Founder at Kenya's first data-driven HealthTech startup [Huduma Fasta LLC!](https://hudumafasta.co.ke)
+A *Full-Stack Software Developer*, *Wordpress Expert* and the Founder of Kenya's first data-driven HealthTech mobility startup [Huduma Fasta LLC!](https://hudumafasta.co.ke)
 
-- 🔭 Currently leading my aweome Team at [Huduma Fasta LLC](https://hudumafasta.co.ke) & collaborating on private projects 
+- 🔭 Currently leading an awesome Team at [Huduma Fasta LLC](https://hudumafasta.co.ke) & collaborating on private projects 
 - 🌱 Also learning [Laravel!](https://laravel.com) & [Flutter!](https://flutter.dev)
 - 👯 Looking for meaningful collaborations and partnerships especially in Tech, Health and Environmental Conservation.
 - 💬 Ask me about anything here on [Telegram](https://t.me/abaeakili)
@@ -40,6 +40,6 @@ An upcoming full-stack software developer and the Founder at Kenya's first data-
 </a>
 
 <br /><br />
-[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=abaeakili" alt="visitor badge"/></p>
+<p> [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<img src="https://visitor-badge.glitch.me/badge?page_id=abaeakili" alt="visitor badge"/></p>
 
