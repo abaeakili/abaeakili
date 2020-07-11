@@ -17,6 +17,7 @@ An upcoming full-stack software developer and the Founder at Kenya's first data-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <br />
 
@@ -39,9 +40,6 @@ An upcoming full-stack software developer and the Founder at Kenya's first data-
 </a>
 
 <br />
-<p>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=abaeakili.visitor-badge)
-</p>
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=abaeakili" alt="visitor badge"/></p>
 
