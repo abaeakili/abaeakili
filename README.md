@@ -2,7 +2,7 @@
 
 An upcoming full-stack software developer and the Founder at Kenya's first data-driven HealthTech startup [Huduma Fasta LLC!](https://hudumafasta.co.ke)
 
-- 🔭 I’m currently doing Management at [Huduma Fasta LLC!](https://hudumafasta.co.ke) collaborating on private projects 
+- 🔭 I’m currently heading my Team at [Huduma Fasta LLC](https://hudumafasta.co.ke) & collaborating on private projects 
 - 🌱 Also learning [Laravel!](https://laravel.com) & [Flutter!](https://flutter.dev)
 - 👯 I’m looking for meaningful collaborations especially in Tech, Health and Environmental Conservation.
 - 💬 Ask me about anything [here](https://github.com/abaeakili/abaeakili/issues)
@@ -24,7 +24,7 @@ An upcoming full-stack software developer and the Founder at Kenya's first data-
   <img align="left" alt="Abae Akili | LinkedIn" width="20px" src="https://github.com/abaeakili/abaeakili/blob/master/img/linkedin.svg" />
 </a>
 <a href="https://twitter.com/abaeakili">
-  <img align="left" alt="Abae Akili | Twitter" width="21px" src="https://raw.githubusercontent.com/abaeakili/abaeakili/master/assets/twitter.svg" />
+  <img align="left" alt="Abae Akili | Twitter" width="21px" src="https://github.com/abaeakili/abaeakili/blob/master/img/twitter.svg" />
 </a>
 <a href="https://instagram.com/abaeakili">
   <img align="left" alt="Abae Akili | Instagram" width="21px" src="https://raw.githubusercontent.com/abaeakili/abaeakili/master/assets/instagram.svg" />
