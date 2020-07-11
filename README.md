@@ -39,7 +39,7 @@ An upcoming full-stack software developer and the Founder at Kenya's first data-
   <img align="left" alt="Abae Akili | DEV.to" width="21px" src="https://github.com/abaeakili/abaeakili/blob/master/img/dev.png" />
 </a>
 
-<br />
-
+<br /><br />
+[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=abaeakili" alt="visitor badge"/></p>
 
