@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm [Abae Akili!](https://abaeakili.github.io)
 
-A *Full-Stack Software Developer*, *Wordpress Expert* and the Founder of Kenya's first data-driven HealthTech mobility startup [Huduma Fasta LLC!](https://hudumafasta.co.ke)
+A <strong>Full-Stack Software Developer</strong>, <strong>Wordpress Expert</strong> and <strong>the Founder<strong> of Kenya's first <strong>data-driven HealthTech mobility startup</strong> [Huduma Fasta LLC!](https://hudumafasta.co.ke)
 
 <details>
  <summary><strong>Read more...</strong></summary>
