@@ -4,9 +4,9 @@ A *Full-Stack Software Developer*, *Wordpress Expert* and the Founder of Kenya's
 
 <details>
  <summary><strong>Read more...</strong></summary>
-   <p>- 🔭 Currently leading an awesome Team at Huduma Fasta LLC & collaborating on private projects</p> 
-   <p>- 🌱 Also learning Laravel & Flutter</p>
-   <p>- 👯 Looking for meaningful collaborations and partnerships especially in Tech, Health and Environmental Conservation.</p>
+   ✦ 🔭 Currently leading an awesome Team at Huduma Fasta LLC & collaborating on private projects<br/> 
+   ✦ 🌱 Also learning Laravel & Flutter<br/>
+   ✦ 👯 Looking for meaningful collaborations and partnerships especially in Tech, Health and Environmental Conservation.
 </details>
 
 
